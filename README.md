@@ -6,6 +6,6 @@ Welcome to the Bike Rental Service project! This repository is dedicated to a si
 Features
 User-friendly Interface: The project boasts an intuitive and user-friendly interface, making it easy for users to browse, select, and rent bikes effortlessly.
 
-Flexible Rental Options: Users can choose from a variety of bike options, durations, and payment methods, providing flexibility for different user preferences.
+Flexible Rental Options: Users can choose from a variety of bike options and payment methods, providing flexibility for different user preferences.
 
 Secure Transactions: The system ensures secure transactions, maintaining the confidentiality and integrity of user data and payment information.
